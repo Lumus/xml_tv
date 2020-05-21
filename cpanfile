@@ -1,0 +1,19 @@
+
+requires 'JSON';
+requires 'JSON::Parse';
+requires 'XML::Simple';
+requires 'DateTime';
+requires 'Getopt::Long';
+requires 'XML::Writer';
+requires 'URI';
+requires 'URI::Escape';
+requires 'Thread::Queue';
+requires 'Fcntl';
+requires 'File::Copy';
+requires 'Clone';
+requires 'Cwd';
+requires 'HTML::TableExtract';
+requires 'DB_File';
+requires 'strict';
+requires 'warnings';
+requires 'LWP::UserAgent';
