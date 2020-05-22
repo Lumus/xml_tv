@@ -7,6 +7,7 @@ requires 'DB_File';
 
 requires 'Fcntl';
 requires 'File::Copy';
+requires 'Furl';
 
 requires 'Getopt::Long';
 
